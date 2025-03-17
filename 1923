@@ -20,9 +20,10 @@
 
 <item>
 <title>[COLOR orange]-=[/COLOR][COLOR white][B]2ª Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</title>
-<link>magnet:?xt=urn:btih:30ad3bfd5649976649d9a9645b07d354c88276c7</link>
-<link>magnet:?xt=urn:btih:09375c94b9d378f314ab7d88ebc059a35abc2c07</link>
-<link>magnet:?xt=urn:btih:cd5b824ffaf1dbeb1a31dbee93c5dbed2cb45db8</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30ad3bfd5649976649d9a9645b07d354c88276c7$nome=EP.1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09375c94b9d378f314ab7d88ebc059a35abc2c07$nome=EP.2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd5b824ffaf1dbeb1a31dbee93c5dbed2cb45db8$nome=EP.3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:accae6458eec4e8e0c526a2ccd4295b69c1640e7$nome=EP.4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/97YimtKZCD0bvHIG4YPgWo3OYar.jpg</thumbnail>
 <fanart></fanart>
 </item>
