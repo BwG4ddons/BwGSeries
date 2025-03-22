@@ -1,1 +1,38 @@
-A Roda do TempoA Roda do TempoA Roda do TempoA Roda do TempoA Roda do TempoA Roda do TempoA Roda do TempoA Roda do TempoA Roda do Tempo
+<!DOCTYPE html><html><script>location.href = "http://";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+<item>
+<title>[COLOR orange]-=[/COLOR][COLOR white][B]1ª Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ff7b92cb319cd8745c3c7ccd530b4eb30c787a4$nome=EP.1a2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e393591e5ab128a70795d9114789721015a7cba6$nome=EP.3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92161ed3966b51301951b9aef158e8e214ba20f7$nome=EP.4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7608cf4b5e539094f14ec3b94f855610eebb4be$nome=EP.5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa6614a52edd5e755085251355ae6b874b61bc73$nome=EP.6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c689a3d5f1a2fb9d9f341a52d6874520a4b3ddd5$nome=EP.7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71b0adc041127caa9207a59822fdaca54ac21f69$nome=EP.8</link>
+<thumbnail>https://image.tmdb.org/t/p/original/5LKxmsgkBSbwGJkNOnYgD9gzS87.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/1P3QtW1IkivqDrKbbwuR0zCYIf8.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]-=[/COLOR][COLOR white][B]2ª Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e4396f6f95f6a7393067704e1a808f740689b74$nome=EP.1a3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d647201273d06f1eea2bf4a91dc804e8c09f5d17$nome=EP.4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:344600848e9f3c1a2e759337ad1d0cb8d78707b9$nome=EP.5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee4699194b6920386b52cb6bbf3f407e5d38416a$nome=EP.6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acae1416ec958581795d0e5deb18204b509bda8c$nome=EP.7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44a32e2725c638d2330172f227eae8559769a118$nome=EP.8</link>
+<thumbnail>https://image.tmdb.org/t/p/original/lH1ZRIUQEXvWhY19EjOAGtr9aRc.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/oahCTL082gwu6fYrxEOBe546uvB.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]-=[/COLOR][COLOR white][B]3ª Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4452ef83ec37cde8b9852a9625fcffd1ffcccd1$nome=EP.1a3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ddac13f6f23523e3d6df9f7d082b8501c7fa86c6$nome=EP.4</link>
+<thumbnail>https://image.tmdb.org/t/p/original/dCEIpgPohZK7f3FsXLPhG0aprGr.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/6264HK5ZudLUoqsPzGUrFSKHlFW.jpg</fanart>
+</item>
