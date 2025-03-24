@@ -1,0 +1,37 @@
+<!DOCTYPE html><html><script>location.href = "http://";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+<item>
+<title>[COLOR orange]-=[/COLOR][COLOR white][B]1ª Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d65e036c7aebb7e54fbed6d9c36638ffa3d6436$nome=EP.1a2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65c703ae4f45e0fbf295a98b725a196d347a1066$nome=EP.3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:697cc519808643cb26d55560a9faebe277c6aede$nome=EP.4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33a442390e020cd4aae45c6142d56c79266b4f55$nome=EP.5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5feb3d66cde0966eca526803fc95ce81ee52f18f$nome=EP.6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f26a9c3a217cd7f1e3cca948e4ce2dc56407bbe$nome=EP.7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df595cb097e6cb04223148ec9c93109388ce3efd$nome=EP.8</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c7b04094b08a0ee1c2e21642800822504e432d7$nome=EP.9</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a8d8112f9bb510769e7da64e3d7dd2933690ef7$nome=EP.10</link>
+<thumbnail>https://image.tmdb.org/t/p/original/tVR4q9FazxJuCEpaYxiCijUlvM3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/n5FPNMJ0eRoiQrKGfUQQRAZeaxg.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR orange]-=[/COLOR][COLOR white][B]2ª Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80b9cb71922979ca1d11cce653da8163b76d3865$nome=EP.1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81aa08a5f5f0bf8990c2da77f34a078e4c0de6f8$nome=EP.2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ff1d2c15b5efd9ac775df48b213cf3b04f9a98a$nome=EP.3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:862fb2b8ffefe81e1d47f7548b7b292698fe72c7$nome=EP.4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b22869135c51bf91640a90d090c0e8abb111bf8$nome=EP.5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:066fa69bfaf098beefcebb07e60b1475cead8f6a$nome=EP.6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:abbb1719ba03f87f70633bc93ea6f275d89e9c6e$nome=EP.7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4a650ed769de9bef22e00773ae1697d323839b5$nome=EP.8</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6035c71b1fc594e44724dbc85d27bfa09dc0951$nome=EP.9</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb1a6d20b52f2868208237adc20e3840d8d3acb2$nome=EP.10</link>
+<thumbnail>https://image.tmdb.org/t/p/original/1aSY70YeeAt9OuCkl0pXxt7WXat.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/p6ZP3Humvo90UXkDeEv5x9aynNH.jpg</fanart>
+</item>
+
