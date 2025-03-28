@@ -33,6 +33,7 @@
 <title>[COLOR orange]-=[/COLOR][COLOR white][B]3ª Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4452ef83ec37cde8b9852a9625fcffd1ffcccd1$nome=EP.1a3</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ddac13f6f23523e3d6df9f7d082b8501c7fa86c6$nome=EP.4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a62dbd00d2f0c4f60139e5b696528bf92c4d5a3$nome=EP.5</link>
 <thumbnail>https://image.tmdb.org/t/p/original/dCEIpgPohZK7f3FsXLPhG0aprGr.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/6264HK5ZudLUoqsPzGUrFSKHlFW.jpg</fanart>
 </item>
