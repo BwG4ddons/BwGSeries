@@ -20,12 +20,7 @@
 
 <item>
 <title>[COLOR orange]-=[/COLOR][COLOR white][B]2ª Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30ad3bfd5649976649d9a9645b07d354c88276c7$nome=EP.1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09375c94b9d378f314ab7d88ebc059a35abc2c07$nome=EP.2</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd5b824ffaf1dbeb1a31dbee93c5dbed2cb45db8$nome=EP.3</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:accae6458eec4e8e0c526a2ccd4295b69c1640e7$nome=EP.4</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dfd323f91f0ea909eb697d3eafc91b19a4430268$nome=EP.5</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:785940134988c098e6c3eb3a7deb7eadba0517d0$nome=EP.6</link>
+<link>magnet:?xt=urn:btih:f0ab0d2ed1b202f2f3c91ea3f5a4109c540281cc</link>
 <thumbnail>https://image.tmdb.org/t/p/original/97YimtKZCD0bvHIG4YPgWo3OYar.jpg</thumbnail>
 <fanart></fanart>
 </item>
