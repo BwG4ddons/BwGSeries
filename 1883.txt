@@ -1,0 +1,23 @@
+<!DOCTYPE html><html><script>location.href = "http://";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+
+
+
+<item>
+<title>[COLOR orange]-=[/COLOR][COLOR white][B]1ª Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</title>
+<link>magnet:?xt=urn:btih:9e282ad70980d6080562d0227edb70496d25368b</link>
+<thumbnail>https://image.tmdb.org/t/p/original/waLbm384SQDwLTCn6ttPqQS5kfV.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+
