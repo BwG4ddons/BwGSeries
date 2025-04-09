@@ -6,21 +6,21 @@
 
 			<item>
 				<title>[COLOR orangered]-=[/COLOR][COLOR white][B]EPISÓDIOS 01 ao 04[/B][/COLOR][COLOR orangered]=-[/COLOR]</title>
-				<thumbnail>https://image.tmdb.org/t/p/w342/Gz9WK0ohcRpWNq5uCcDLvP4nnd.jpg</thumbnail>
+				<thumbnail>https://image.tmdb.org/t/p/original/5zeytW6ZBkJqE5OqDAL0ILTSyh4.jpg</thumbnail>
 				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eab93c4cbf4305442cd9342fd7797e01505a35c4</link>
 			</item>
 			<item>
 				<title>[COLOR orangered]-=[/COLOR][COLOR white][B]EPISÓDIO 05[/B][/COLOR][COLOR orangered]=-[/COLOR]</title>
-				<thumbnail>https://image.tmdb.org/t/p/w342/Gz9WK0ohcRpWNq5uCcDLvP4nnd.jpg</thumbnail>
+				<thumbnail>https://image.tmdb.org/t/p/original/5zeytW6ZBkJqE5OqDAL0ILTSyh4.jpg</thumbnail>
 				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50acb7a768b51f2c372a41a11089d991357b6870</link>
 			</item>
 			<item>
 				<title>[COLOR orangered]-=[/COLOR][COLOR white][B]EPISÓDIO 06 ao 07[/B][/COLOR][COLOR orangered]=-[/COLOR]</title>
-				<thumbnail>https://image.tmdb.org/t/p/w342/Gz9WK0ohcRpWNq5uCcDLvP4nnd.jpg</thumbnail>
+				<thumbnail>https://image.tmdb.org/t/p/original/5zeytW6ZBkJqE5OqDAL0ILTSyh4.jpg</thumbnail>
 				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4edc910bd7e7ff6e17197025af13b32a2d674c07</link>
 			</item>
 			<item>
 				<title>[COLOR orangered]-=[/COLOR][COLOR white][B]EPISÓDIO 08[/B][/COLOR][COLOR orangered]=-[/COLOR]</title>
-				<thumbnail>https://image.tmdb.org/t/p/w342/Gz9WK0ohcRpWNq5uCcDLvP4nnd.jpg</thumbnail>
+				<thumbnail>https://image.tmdb.org/t/p/original/5zeytW6ZBkJqE5OqDAL0ILTSyh4.jpg</thumbnail>
 				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e0a34bb0a06fb648fc64f0017efcd0a42faa795</link>
 			</item>
