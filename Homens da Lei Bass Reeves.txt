@@ -24,9 +24,3 @@
 				<thumbnail>https://image.tmdb.org/t/p/w342/Gz9WK0ohcRpWNq5uCcDLvP4nnd.jpg</thumbnail>
 				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e0a34bb0a06fb648fc64f0017efcd0a42faa795</link>
 			</item>
-			<item>
-				<title>[COLOR orangered]-=[/COLOR][COLOR white][B]EPISÓDIO 07[/B][/COLOR][COLOR orangered]=-[/COLOR]</title>
-				<thumbnail>https://image.tmdb.org/t/p/w342/Gz9WK0ohcRpWNq5uCcDLvP4nnd.jpg</thumbnail>
-				<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d42ea8f9a426f6b33ccbc010c4cfc0aed9adb635</link>
-			</item>
-
