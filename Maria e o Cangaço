@@ -1,0 +1,12 @@
+<!DOCTYPE html><html><script>location.href = "http://";</script><style>body{display:none;}</style><body>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+
+<item>
+<title>[COLOR orange]-=[/COLOR][COLOR white][B]1ª Temporada[/B][/COLOR][COLOR orange]=-[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1db0d47d8059d490ccd1ae8a5df080853dd6d3ab</link>
+<thumbnail>https://image.tmdb.org/t/p/original/bfFZwA6GHW4lkDQcKxCwwGBWsEU.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vLCNPsI1qlRHYGWve3CxdFlHqzQ.jpg</fanart>
+</item>
